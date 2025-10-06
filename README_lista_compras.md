@@ -1,6 +1,5 @@
-# 🛒 Lista de Compras em Python
 
-## 📌 Descrição
+
 Este programa exibe uma lista de compras com nome do produto, preço unitário e quantidade.  
 Ele também calcula:
 - O total gasto na compra  
@@ -10,7 +9,7 @@ Ele também calcula:
 
 ---
 
-## ▶️ Como executar
+Como executar
 1. Certifique-se de ter o **Python 3** instalado.  
 2. Salve o código em um arquivo chamado `lista_compras.py`.  
 3. No terminal, execute:
@@ -24,7 +23,7 @@ Ele também calcula:
 
 ---
 
-## 📝 Exemplo de saída
+Exemplo de saída
 ```
 Lista de Compras:
 Produto: Arroz | Quantidade: 2 | Preço Unitário: R$5.50
